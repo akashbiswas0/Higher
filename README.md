@@ -26,6 +26,8 @@ Yellow Network provides **state channel infrastructure** for building scalable, 
 
 #### 1. **State Channels via Nitrolite SDK**
 
+- [ https://github.com/akashbiswas0/Higher/blob/main/server/yellow.ts ]
+
 We integrate Yellow Network through the `@erc7824/nitrolite` SDK (v0.5.3), which provides:
 
 - **Session Management**: Create multi-participant sessions with EIP-712 authorization
